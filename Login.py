@@ -14,7 +14,7 @@ def get_login_url():
             login_url = js['data']['url']
             oauthKey = js['data']['oauthKey']
             name = generate(login_url)
-            webbrowser.open('http://localhost:5000/loginqr/{}'.format(name))
+            print('Go to:"http://localhost:5000/loginqr/{}" scan code and sign in.'.format(name))
             return oauthKey
     return ''
 

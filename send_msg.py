@@ -58,3 +58,6 @@ def message_handler():
 
 if __name__ == '__main__':
    message_handler()
+   scheduler = BlockingScheduler()
+   scheduler.add_job(message_handler, 'interval', seconds=30)
+   scheduler.start()

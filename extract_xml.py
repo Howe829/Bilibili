@@ -94,8 +94,6 @@ def update():
 
 
 if __name__ == '__main__':
-    # scheduler = BlockingScheduler()
-    # scheduler.add_job(update, 'interval', seconds=30)
-    # scheduler.start()
-    # print(get_proxy())
-    update()
+    scheduler = BlockingScheduler()
+    scheduler.add_job(update, 'interval', seconds=30)
+    scheduler.start()
