@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="198b826f-8acd-4144-85c0-6fb14bbd4715" name="Default Changelist" comment="fisrt commit">
+      <change afterPath="$PROJECT_DIR$/../2019-nCov/.idea/2019-nCov.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019-nCov/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019-nCov/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019-nCov/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019-nCov/charts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019-nCov/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019-nCov/crawlers/crawler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019-nCov/crawlers/get_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019-nCov/entities.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019-nCov/grap_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019-nCov/pmdb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019-nCov/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NLP/.idea/NLP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NLP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NLP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NLP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NLP/first_try.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../The_Way_To_Success/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../The_Way_To_Success/Socket_/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../The_Way_To_Success/Socket_/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../The_Way_To_Success/Socket_/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../The_Way_To_Success/async/flags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../The_Way_To_Success/async/flags_asy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../The_Way_To_Success/leetcode/lc_00005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../The_Way_To_Success/leetcode/lc_0004_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../The_Way_To_Success/leetcode/lc_0006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../The_Way_To_Success/leetcode/nooder/array/a_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../The_Way_To_Success/leetcode/nooder/array/a_1_p.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../The_Way_To_Success/leetcode/nooder/array/a_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../The_Way_To_Success/leetcode/nooder/array/a_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../The_Way_To_Success/leetcode/nooder/array/a_3_p.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../The_Way_To_Success/leetcode/nooder/array/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../The_Way_To_Success/leetcode/nooder/linkList/LinkList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../The_Way_To_Success/leetcode/nooder/linkList/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../The_Way_To_Success/leetcode/nooder/linkList/l_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../The_Way_To_Success/leetcode/nooder/linkList/l_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../The_Way_To_Success/leetcode/nooder/linkList/l_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../The_Way_To_Success/leetcode/nooder/string/s_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../The_Way_To_Success/leetcode/nooder/string/s_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../The_Way_To_Success/leetcode/nooder/string/s_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../The_Way_To_Success/leetcode/nooder/string/s_7P.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../The_Way_To_Success/leetcode/nooder/string/s_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../The_Way_To_Success/pyexercise/0000/0000.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../The_Way_To_Success/pyexercise/0000/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../The_Way_To_Success/pyexercise/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../astro/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../astro/afs_aio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../astro/run.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../astro/scheduler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../astro/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../astro/sources.list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../astro/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto_ssr/.idea/auto_ssr.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto_ssr/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto_ssr/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto_ssr/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto_ssr/config-crawler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto_ssr/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backgrounds/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backgrounds/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backgrounds/change_wallpaper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backgrounds/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bodyrec/.idea/bodyrec.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bodyrec/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bodyrec/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bodyrec/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bodyrec/backgrouddes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bodyrec/bodyrec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bodyrec/cannyEdge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatwm/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatwm/authclient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatwm/authserver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatwm/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chatwm/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdlt/Sline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdlt/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdlt/huisu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdlt/preparation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdlt/yd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdlt/youdao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../douyin/crawl_json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../douyin/douyin_crawler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../douyin/draw_frames.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/Canvas/Coutingdown/countdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/Canvas/Coutingdown/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/Canvas/Coutingdown/start.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/Canvas/arrow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/Canvas/firstlesson.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/Canvas/lesson2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/Canvas/starsky.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/Canvas/tangram.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/bootstrap_learn/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/bootstrap_learn/carousel_.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/bootstrap_learn/navbar_.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/bootstrap_learn/navbar_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/challenge.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/form_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/form_test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/test3/assets/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/test3/assets/option-top.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/test3/assets/qie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/test3/assets/reg.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/test3/assets/reg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/test3/assets/task3/four.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/test3/assets/task3/head.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/test3/assets/task3/one.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/test3/assets/task3/three.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/test3/assets/task3/top.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/test3/assets/task3/two.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/test3/assets/top.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/test3/task2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/test3/task3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/test3/task4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/test3/task5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/turtle_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpserver/server/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpserver/server/socket_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mblog/.idea/mblog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mblog/mblog/logic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mblog/mblog/my_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mblog/mblog/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../music_server/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../music_server/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../music_server/remoteController.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../music_server/templates/current_song.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../music_server/templates/rcml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myblog/blog/templates/a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myblog/blog/templates/article_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myblog/blog/templates/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myblog/blog/templates/blogmain.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myblog/blog/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myblog/blog/templates/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myblog/blog/templates/markDown.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myblog/blog/templates/page_a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myblog/static_files/images/0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myblog/static_files/images/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myblog/static_files/images/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myblog/static_files/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myblog/static_files/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myblog/static_files/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myblog/static_files/images/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myblog/static_files/images/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myblog/static_files/images/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myblog/static_files/images/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myblog/static_files/images/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myblog/static_files/images/thumbup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oj_spider/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oj_spider/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seleniumTest/handle_pic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seleniumTest/scot_t.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taobao/get_comment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taobao/login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taobao/pingf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taobao/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/os_auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textRec/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textRec/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textRec/.idea/textRec.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../textRec/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkiner/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkiner/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkiner/scapytest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toga_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toga_test/app1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vcr/Scheduler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vcr/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vcr/frontend/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vcr/frontend/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vcr/local.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vcr/logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vcr/result_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vcr/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vcr/utility.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vcr/video_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wustoj_spider/derectory_management.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wustoj_spider/wustoj_spider/spiders/variables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mysql_demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mysql_demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../music_free/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../music_free/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../music_free/music_free.py" beforeDir="false" afterPath="$PROJECT_DIR$/../music_free/music_free.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opgg/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../opgg/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dHwi5WxJdMscJeDWtUESbPbR9m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.crc32_bak">
+    <configuration name="BVid_2_cid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bilibili" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BVid_2_cid.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="crc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bilibili" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="crc32" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bilibili" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crc32.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="crc32_bak" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bilibili" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crc32_bak.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="extract_xml" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bilibili" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/extract_xml.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.crc32_bak" />
+        <item itemvalue="Python.crc" />
+        <item itemvalue="Python.crc32" />
+        <item itemvalue="Python.BVid_2_cid" />
+        <item itemvalue="Python.extract_xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="198b826f-8acd-4144-85c0-6fb14bbd4715" name="Default Changelist" comment="" />
+      <created>1591774120257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591774120257</updated>
+      <workItem from="1591774124469" duration="18617000" />
+      <workItem from="1591917394547" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19216000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="642" y="316" width="626" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592096150291">
+      <screen x="0" y="0" width="1920" height="1026" />
+    </state>
+    <state x="642" y="316" width="626" height="403" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1026@0.0.1920.1026" timestamp="1592096150291" />
+    <state x="499" y="72" width="912" height="891" key="CommitChangelistDialog2" timestamp="1592184214305">
+      <screen x="0" y="0" width="1920" height="1026" />
+    </state>
+    <state x="499" y="72" width="912" height="891" key="CommitChangelistDialog2/0.0.1920.1026@0.0.1920.1026" timestamp="1592184214305" />
+    <state width="1897" height="265" key="GridCell.Tab.0.bottom" timestamp="1592184234750">
+      <screen x="0" y="0" width="1920" height="1026" />
+    </state>
+    <state width="1897" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1026@0.0.1920.1026" timestamp="1592184234750" />
+    <state width="1897" height="265" key="GridCell.Tab.0.center" timestamp="1592184234749">
+      <screen x="0" y="0" width="1920" height="1026" />
+    </state>
+    <state width="1897" height="265" key="GridCell.Tab.0.center/0.0.1920.1026@0.0.1920.1026" timestamp="1592184234749" />
+    <state width="1897" height="265" key="GridCell.Tab.0.left" timestamp="1592184234749">
+      <screen x="0" y="0" width="1920" height="1026" />
+    </state>
+    <state width="1897" height="265" key="GridCell.Tab.0.left/0.0.1920.1026@0.0.1920.1026" timestamp="1592184234749" />
+    <state width="1897" height="265" key="GridCell.Tab.0.right" timestamp="1592184234750">
+      <screen x="0" y="0" width="1920" height="1026" />
+    </state>
+    <state width="1897" height="265" key="GridCell.Tab.0.right/0.0.1920.1026@0.0.1920.1026" timestamp="1592184234750" />
+    <state x="749" y="212" width="402" height="620" key="RollbackChangesDialog" timestamp="1592184201014">
+      <screen x="0" y="0" width="1920" height="1026" />
+    </state>
+    <state x="749" y="212" width="402" height="620" key="RollbackChangesDialog/0.0.1920.1026@0.0.1920.1026" timestamp="1592184201014" />
+    <state x="494" y="148" width="932" height="740" key="SettingsEditor" timestamp="1592095472331">
+      <screen x="0" y="0" width="1920" height="1026" />
+    </state>
+    <state x="494" y="148" width="932" height="740" key="SettingsEditor/0.0.1920.1026@0.0.1920.1026" timestamp="1592095472331" />
+  </component>
+</project>
