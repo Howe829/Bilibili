@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="198b826f-8acd-4144-85c0-6fb14bbd4715" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dHwi5WxJdMscJeDWtUESbPbR9m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.crc32_bak">
+    <configuration name="crc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bilibili" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="crc32" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bilibili" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crc32.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="crc32_bak" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crc32_bak.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="extract_xml" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bilibili" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/extract_xml.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.crc32_bak" />
+        <item itemvalue="Python.crc" />
+        <item itemvalue="Python.crc32" />
+        <item itemvalue="Python.extract_xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="198b826f-8acd-4144-85c0-6fb14bbd4715" name="Default Changelist" comment="" />
+      <created>1591774120257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591774120257</updated>
+      <workItem from="1591774124469" duration="18617000" />
+      <workItem from="1591917394547" duration="599000" />
+    </task>
+    <task id="LOCAL-00001" summary="fisrt commit">
+      <created>1592185755126</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592185755126</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19216000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fisrt commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="fisrt commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="826" y="385" width="258" height="266" key="#Notifications" timestamp="1592185355580">
+      <screen x="0" y="0" width="1920" height="1026" />
+    </state>
+    <state x="826" y="385" width="258" height="266" key="#Notifications/0.0.1920.1026@0.0.1920.1026" timestamp="1592185355580" />
+    <state x="642" y="316" width="626" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592096150291">
+      <screen x="0" y="0" width="1920" height="1026" />
+    </state>
+    <state x="642" y="316" width="626" height="403" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1026@0.0.1920.1026" timestamp="1592096150291" />
+    <state x="658" y="90" width="594" height="856" key="#crc32_bak" timestamp="1592185479585">
+      <screen x="0" y="0" width="1920" height="1026" />
+    </state>
+    <state x="658" y="90" width="594" height="856" key="#crc32_bak/0.0.1920.1026@0.0.1920.1026" timestamp="1592185479585" />
+    <state x="499" y="72" width="912" height="891" key="CommitChangelistDialog2" timestamp="1592184214305">
+      <screen x="0" y="0" width="1920" height="1026" />
+    </state>
+    <state x="499" y="72" width="912" height="891" key="CommitChangelistDialog2/0.0.1920.1026@0.0.1920.1026" timestamp="1592184214305" />
+    <state x="797" y="268" width="306" height="509" key="EnvironmentVariablesDialog" timestamp="1592185474120">
+      <screen x="0" y="0" width="1920" height="1026" />
+    </state>
+    <state x="797" y="268" width="306" height="509" key="EnvironmentVariablesDialog/0.0.1920.1026@0.0.1920.1026" timestamp="1592185474120" />
+    <state width="948" height="265" key="GridCell.Tab.0.bottom" timestamp="1592185600781">
+      <screen x="0" y="0" width="1920" height="1026" />
+    </state>
+    <state width="948" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1026@0.0.1920.1026" timestamp="1592185600781" />
+    <state width="948" height="265" key="GridCell.Tab.0.center" timestamp="1592185600780">
+      <screen x="0" y="0" width="1920" height="1026" />
+    </state>
+    <state width="948" height="265" key="GridCell.Tab.0.center/0.0.1920.1026@0.0.1920.1026" timestamp="1592185600780" />
+    <state width="948" height="265" key="GridCell.Tab.0.left" timestamp="1592185600780">
+      <screen x="0" y="0" width="1920" height="1026" />
+    </state>
+    <state width="948" height="265" key="GridCell.Tab.0.left/0.0.1920.1026@0.0.1920.1026" timestamp="1592185600780" />
+    <state width="948" height="265" key="GridCell.Tab.0.right" timestamp="1592185600780">
+      <screen x="0" y="0" width="1920" height="1026" />
+    </state>
+    <state width="948" height="265" key="GridCell.Tab.0.right/0.0.1920.1026@0.0.1920.1026" timestamp="1592185600780" />
+    <state x="749" y="212" width="402" height="620" key="RollbackChangesDialog" timestamp="1592184201014">
+      <screen x="0" y="0" width="1920" height="1026" />
+    </state>
+    <state x="749" y="212" width="402" height="620" key="RollbackChangesDialog/0.0.1920.1026@0.0.1920.1026" timestamp="1592184201014" />
+    <state x="494" y="148" width="932" height="740" key="SettingsEditor" timestamp="1592185384642">
+      <screen x="0" y="0" width="1920" height="1026" />
+    </state>
+    <state x="494" y="148" width="932" height="740" key="SettingsEditor/0.0.1920.1026@0.0.1920.1026" timestamp="1592185384642" />
+    <state x="100" y="100" width="1720" height="826" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1592185413109">
+      <screen x="0" y="0" width="1920" height="1026" />
+    </state>
+    <state x="100" y="100" width="1720" height="826" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1026@0.0.1920.1026" timestamp="1592185413109" />
+    <state x="623" y="225" width="670" height="58" key="search.everywhere.popup" timestamp="1592185092598">
+      <screen x="0" y="0" width="1920" height="1026" />
+    </state>
+    <state x="623" y="225" width="670" height="58" key="search.everywhere.popup/0.0.1920.1026@0.0.1920.1026" timestamp="1592185092598" />
+  </component>
+</project>
