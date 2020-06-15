@@ -2,8 +2,7 @@ import xmltodict
 import requests
 import time
 import redis
-from get_uid import Add
-
+from crc32_crack import Crc32Engine
 # #dom解析xml
 # with open('test.xml') as f:
 #
@@ -29,14 +28,14 @@ def timeStamp_2_formattime(ts):
 
 
 res = requests.get('http://comment.bilibili.com/197891020.xml')
+crcEngine = Crc32Engine()
 
 my = xmltodict.parse(res.content.decode('utf-8'))
 for i in my['i']['d']:
-    print(i['@p'], i['#text'])
     pl = i['@p'].split(',')
     datetime = timeStamp_2_formattime(int(pl[4]))
     mid = pl[-1]
-    uid = Add(pl[-2])
+    uid = crcEngine.crack(pl[-2])[0]
     a = Aux(mid, i['#text'], uid, datetime)
     print(a)
     time.sleep(1)
